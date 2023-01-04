@@ -9,7 +9,7 @@
 
 <br><br>
 
-# ―――――――――――――――――――――――――――
+# ―――――――――――――――――――――――――
 <br>
 
 [![installation](https://img.shields.io/badge/|-INSTALLATION_SAMPCTL_/_GIT-ffe600?style=for-the-badge&logo=none&logoColor=white)](https://github.com/Ramon-Sd/new-marker)
@@ -23,7 +23,7 @@ sampctl package install Ramon-Sd/new-marker
 git clone https://github.com/Ramon-Sd/new-marker.git
 ```
 
-# ―――――――――――――――――――――――――――
+# ―――――――――――――――――――――――――
 <br>
 
 [![functions](https://img.shields.io/badge/|-FUNCTIONS-0000FF?style=for-the-badge&logo=none&logoColor=white)](https://github.com/Ramon-Sd/new-marker)
@@ -49,7 +49,7 @@ forward OnPlayerLeaveMarker(playerid, markerid);
 
 ```
 
-# ―――――――――――――――――――――――――――
+# ―――――――――――――――――――――――――
 <br>
 
 [![screenshots](https://img.shields.io/badge/|-SCREENSHOTS-06d14d?style=for-the-badge&logo=none&logoColor=white)](https://github.com/Ramon-Sd/new-marker)
