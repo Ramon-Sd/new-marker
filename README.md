@@ -55,6 +55,6 @@ forward OnPlayerLeaveMarker(playerid, markerid);
 [![screenshots](https://img.shields.io/badge/|-SCREENSHOTS-06d14d?style=for-the-badge&logo=none&logoColor=white)](https://github.com/Ramon-Sd/new-marker)
 <br><br>
 
-![sampctl](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_01.png)
-![sampctl](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_02.png)
+[![img_01](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_01.png)](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_01.png)
+[![img_02](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_02.png)](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_02.png)
 <br><br>
