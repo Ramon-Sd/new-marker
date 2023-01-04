@@ -57,4 +57,4 @@ forward OnPlayerLeaveMarker(playerid, markerid);
 
 ![sampctl](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_01.png)
 ![sampctl](https://github.com/Ramon-Sd/new-marker/blob/main/imgs/img_02.png)
-<br>
+<br><br>
