@@ -1,0 +1,14 @@
+{
+	"user": "Ramon-Sd",
+	"repo": "new-marker",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"samp-incognito/samp-streamer-plugin"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
