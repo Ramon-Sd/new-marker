@@ -33,7 +33,7 @@ git clone https://github.com/Ramon-Sd/new-marker.git
 
 // * Natives
 
-native CreateMarker(bool:call, Float:callradius, Float:x, Float:y, Float:z, worldid = -1, interiorid = -1, playerid = -1, Float:streamdistance = 300.0, Float:drawdistance = 600.0);
+native CreateMarker(Float:radius, Float:x, Float:y, Float:z, worldid = -1, interiorid = -1, playerid = -1, Float:streamdistance = 300.0, Float:drawdistance = 600.0);
 native CreateStaticMarker(Float:x, Float:y, Float:z, worldid = -1, interiorid = -1, playerid = -1, Float:streamdistance = 300.0, Float:drawdistance = 600.0);
 native CreateInvisibleMarker(Float:radius, Float:x, Float:y, Float:z, worldid = -1, interiorid = -1, playerid = -1);
 native DestroyMarker(markerid);
